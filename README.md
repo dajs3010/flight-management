@@ -18,6 +18,8 @@ Make sure you have installed ``maven``, ``npm`` and ``node.js``
 
 7. Open in browser ``http://localhost:8080/flight-management-web/``
 
+Use ``supervisor`` as Username and Password.
+
 Notes:
 
 - PostgreSQL database hosted by https://api.elephantsql.com (version 11.3, no mayor differences with version 9.0 at least as far as the functionality is used in this exercise)
